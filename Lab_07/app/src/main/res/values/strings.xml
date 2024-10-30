@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recepies App</string>
+    <string name="category_name">Category Name</string>
+    <string name="recepies_name">Recipes Name</string>
+    <string name="date_content">Date %1$s Month %2$s day</string>
+    <string name="meal_detail">Meal Detail</string>
+    <string name="unknown_area">unknown_area</string>
+</resources>
